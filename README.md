@@ -1,6 +1,7 @@
 # 📦 Redis Queue System
 
 This project implements a simple singleton-based Redis-backed queue system in Python.
+Simulating an Advertisement Subscription Service in Web Projects
 
 ---
 
